@@ -1,0 +1,25 @@
+{
+  "name": "parsing",
+  "version": "0.0.1",
+  "description": "과제",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeDaun/parsing.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ldu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeeDaun/parsing/issues"
+  },
+  "homepage": "https://github.com/LeeDaun/parsing#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
